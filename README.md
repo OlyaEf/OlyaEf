@@ -19,7 +19,7 @@
 <img src="https://media.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" width="330" />
 </div>
 <div id="header" align="center">
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Montenegro.
 </div>
 
 ### :hammer_and_wrench: Languages and Tools:
