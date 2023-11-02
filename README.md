@@ -28,7 +28,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :woman_technologist: About Me :
-I am a Python developer with extensive experience in automating and optimizing business processes. My goal is to create effective solutions and contribute to the development of projects that require technical competence and creativity.
+I am a Python developer with extensive experience in automating and optimizing business processes. 
+My goal is to create effective solutions and contribute to the development of projects that require technical competence and creativity.
 
 ---
 ### 📫 Contact with me:
