@@ -32,9 +32,10 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 I am a Python developer with extensive experience in automating and optimizing business processes. My goal is to create effective solutions and contribute to the development of projects that require technical competence and creativity.
 
 ---
-### 📫Contact with me:
+### 📫 Contact with me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Olya_Efimovskikh)
+[![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](https://www.linkedin.com/in/olga-efimovskikh/)
 
 ---
 ### :fire: My Stats :
