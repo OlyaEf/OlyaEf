@@ -9,13 +9,12 @@
 <div id="body" align="center">
 <img src="https://komarev.com/ghpvc/?username=OlyaEf&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/MXR6ZX83oHHBxfOx5R/giphy.gif" width="40"/>
-</h1>
+  hey there✌
+</h1> 
 </div>
-<!-- <div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/2MyObAHHA7XFntJlVN/giphy.gif"/>
-</div> -->
+</div>
 <div align="center">
 <img src="https://media.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" width="330" />
 </div>
