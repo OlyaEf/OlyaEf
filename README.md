@@ -15,9 +15,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/2MyObAHHA7XFntJlVN/giphy.gif"/>
 </div>
-<div align="center">
-<img src="https://media.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" width="330" />
-</div>
 <div id="header" align="center">
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 </div>
@@ -43,3 +40,7 @@ My goal is to create effective solutions and contribute to the development of pr
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlyaEf&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaEf&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+<img src="https://media.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" width="330" />
+</div>
