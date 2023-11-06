@@ -41,6 +41,8 @@ My goal is to create effective solutions and contribute to the development of pr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaEf&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 <div align="center">
 <img src="https://media.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" width="330" />
 </div>
